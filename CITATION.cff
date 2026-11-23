@@ -1,0 +1,77 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+  - family-names: "Vicente"
+    given-names: "Thiago"
+    affiliation: "Instituto de Telecomunicações, University of Aveiro"
+    # orcid: "https://orcid.org/0000-0000-0000-0000"
+  - family-names: "Neto"
+    given-names: "Miguel"
+    affiliation: "Instituto de Telecomunicações, University of Aveiro"
+    # orcid: "https://orcid.org/0000-0000-0000-0000"
+  - family-names: "Andrade"
+    given-names: "Alexandre"
+    affiliation: "Instituto de Telecomunicações, University of Aveiro"
+    # orcid: "https://orcid.org/0000-0000-0000-0000"
+  - family-names: "Martins"
+    given-names: "André"
+    affiliation: "Instituto de Telecomunicações, University of Aveiro"
+    # orcid: "https://orcid.org/0000-0000-0000-0000"
+  - family-names: "Pereira"
+    given-names: "João"
+    affiliation: "Instituto de Telecomunicações, University of Aveiro"
+    # orcid: "https://orcid.org/0000-0000-0000-0000"
+  - family-names: "Direito"
+    given-names: "Rafael"
+    affiliation: "Instituto de Telecomunicações, University of Aveiro"
+    orcid: "https://orcid.org/0000-0002-9094-4659"
+  - family-names: "Teixeira"
+    given-names: "Rafael"
+    affiliation: "Instituto de Telecomunicações, University of Aveiro"
+    orcid: "https://orcid.org/0000-0001-7211-382X"
+  - family-names: "Gomes"
+    given-names: "Diogo"
+    affiliation: "Instituto de Telecomunicações, University of Aveiro"
+    orcid: "https://orcid.org/0000-0002-5848-2802"
+  - family-names: "Aguiar"
+    given-names: "Rui L."
+    affiliation: "Instituto de Telecomunicações, University of Aveiro"
+    orcid: "https://orcid.org/0000-0003-0107-6253"
+title: "telecom-ai-multi-stakeholder-framework"
+version: 1.0.0
+# doi: 10.5281/zenodo.1234 # add the IEEE DOI once the proceedings are on IEEE Xplore
+date-released: 2026-11-10 # Adjust the date after IEEE release
+url: "https://github.com/ATNoG/telecom-ai-multi-stakeholder-framework"
+preferred-citation:
+  type: conference-paper
+  title: "A Telecom Framework for Multi-Stakeholder ML Training and Evaluation"
+  authors:
+    - family-names: "Vicente"
+      given-names: "Thiago"
+    - family-names: "Neto"
+      given-names: "Miguel"
+    - family-names: "Andrade"
+      given-names: "Alexandre"
+    - family-names: "Martins"
+      given-names: "André"
+    - family-names: "Pereira"
+      given-names: "João"
+    - family-names: "Direito"
+      given-names: "Rafael"
+    - family-names: "Teixeira"
+      given-names: "Rafael"
+    - family-names: "Gomes"
+      given-names: "Diogo"
+    - family-names: "Aguiar"
+      given-names: "Rui L."
+  collection-title: "The 24th IEEE International Symposium on Network Computing and Applications  (NCA 2026) - First International Workshop on Networks for AI and AI for Networks (IEEE NetAI 2026)"
+  publisher:
+    name: "IEEE"
+  conference:
+    name: "IEEE NCA 2026 - NetAI 2026 Workshop"
+    city: "Ortigia-Syracuse"
+    country: "IT"
+  month: 11
+  year: 2026
+  url: "https://www.researchgate.net/publication/414948668_A_Telecom_Framework_for_Multi-Stakeholder_ML_Training_and_Evaluation" # Change to the actual paper url once released
+  # doi: 10.5281/zenodo.1234   # add the IEEE DOI once the proceedings are on IEEE Xplore
